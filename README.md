@@ -9,4 +9,4 @@
 
 ## 2.- MARCO TEORICO
 En este Laboratorio se explicara y se  demostrara que se cumplen las leyes de Kirchhoff  aplicando mediante una simulacion  en un  circuito mixto 
-
+### Titulo 3
